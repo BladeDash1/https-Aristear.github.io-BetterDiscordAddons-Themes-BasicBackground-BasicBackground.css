@@ -9,7 +9,7 @@
 	--dguildchanneltransparency: 0.15;
 	--dmemberlistransparency: 0.0;
 	--daccentcolor: 190,78,180;
-	--dbackground: url(https://mwittrien.github.io/BetterDiscordAddons/ThemesV2/BasicBackground/background.jpg);
+	--dbackground: url(https://png.pngtree.com/thumb_back/fh260/background/20210722/pngtree-dark-purple-gradient-wallpaper-background-image_750294.jpg);
 	--dbackgroundsize: cover;
 	--dbackdrop: rgba(0,0,0,0.4);
 	--dblur: 0px;
